@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/neel-amrutia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neel-amrutia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/neel-amrutia-471b86262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neel-amrutia" height="30" width="40" /></a>
 <a href="https://instagram.com/neelamrutia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neelamrutia" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/nothing_for_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nothing_for_17" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/amrutianeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amrutianeel" height="30" width="40" /></a>
